@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class 1759 {
 
 	static char[] arr;
 	static boolean[] tf;
